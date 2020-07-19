@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello there 👋
+
+### I'm Shashank
+
+
+- 🌱 I’m currently learning Reinforcement Learning, Automation.
+- 💬 Ask me about ...
+
 
 <!--
 **shashanktripathi0204/shashanktripathi0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
