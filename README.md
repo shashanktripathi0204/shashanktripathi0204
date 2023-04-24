@@ -3,8 +3,8 @@
 ### I'm Shashank
 
 
-- 🌱 I’m currently learning Reinforcement Learning, Automation.
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Reinforcement Learning
+- 🔭 I’m currently working on Classification Problems
 
 
 <!--
