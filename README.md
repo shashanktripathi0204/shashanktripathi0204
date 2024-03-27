@@ -3,8 +3,8 @@
 ### I'm Shashank
 
 
-- 🌱 I’m currently learning Reinforcement Learning
-- 🔭 I’m currently working on Classification Problems
+- 🌱 Creating Data PipeLines
+- 🔭 Learning Web Dev
 
 
 <!--
